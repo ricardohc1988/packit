@@ -1,0 +1,23 @@
+# Entorno virtual de Pipenv
+Pipfile.lock
+
+# PyInstaller: carpetas y archivos generados al compilar
+build/
+dist/
+__pycache__/
+*.spec
+
+# Archivos temporales y de sistema
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos ocultos de configuración del entorno
+.env
+.venv/
